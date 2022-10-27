@@ -13,7 +13,7 @@ https://linktr.ee/InsperDynamics
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,linux,raspberrypi,arduino,git,bash,c,cpp,cmake,matlab,py,tensorflow,django,flask,figma,java,spring,ruby,rails,js,aws,gcp,heroku,docker,firebase,mongodb,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=ros,linux,raspberrypi,arduino,git,bash,c,cpp,cmake,matlab,py,tensorflow,django,flask,js,java,spring,ruby,rails,aws,gcp,heroku,docker,firebase,mongodb,postgres,sqlite" />
   </a>
 </p>
 
