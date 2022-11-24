@@ -2,7 +2,7 @@
 <h3 align="center">Robotics competitor and Software engineer</h3>
 
 <h3 align="left">My organization:</h3>
-https://linktr.ee/InsperDynamics
+https://github.com/InsperDynamics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
