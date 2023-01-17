@@ -17,6 +17,5 @@ https://github.com/InsperDynamics
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekhyw&show_icons=true&locale=en&theme=dark" alt="mekhyw" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekhyw&theme=dark&include_all_commits=true&count_private=true"/>
 <div>
