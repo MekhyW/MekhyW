@@ -11,7 +11,7 @@ https://github.com/InsperDynamics
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,git,bash,c,cpp,cmake,py,tensorflow,django,flask,js,react,figma,java,spring,ruby,rails,gcp,azure,heroku,vercel,docker,firebase,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,git,bash,c,cpp,cmake,regex,py,tensorflow,django,flask,js,react,figma,java,spring,ruby,rails,gcp,azure,heroku,vercel,docker,firebase,mongodb,postgres" />
   </a>
 </p>
 
