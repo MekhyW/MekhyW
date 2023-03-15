@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Catapano</h1>
 <h3 align="center">Robotics competitor and Software engineer</h3>
 
-<h3 align="left">My organization:</h3>
-https://github.com/InsperDynamics
-
 <h3 align="left">Connect with me:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:felipe_catapano@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -11,7 +8,7 @@ https://github.com/InsperDynamics
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,git,bash,c,cpp,cmake,matlab,py,tensorflow,flask,django,js,ts,nodejs,react,vite,tailwind,java,spring,gcp,azure,heroku,vercel,docker,prisma,postgres,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,git,bash,c,cpp,cmake,matlab,py,tensorflow,flask,django,js,ts,nodejs,vite,tailwind,java,spring,gcp,azure,heroku,vercel,docker,prisma,postgres,mongodb,firebase" />
   </a>
 </p>
 
