@@ -2,13 +2,14 @@
 <h3 align="center">Robotics competitor and Software engineer</h3>
 
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:felipe_catapano@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://telegram.me/MekhyW"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:felipe_catapano@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://telegram.me/MekhyW"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </img></a>
 <div>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekhyw&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekhyw&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mekhyw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div>
 
 <h2 align="left">Robotics and Embedded computing:</h2>
