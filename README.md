@@ -28,7 +28,6 @@
 ![Arm](https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B3.svg?style=for-the-badge&logo=Proteus&logoColor=white)
   
 <h3 align="left">AI / Data Science:</h3>
 
@@ -45,9 +44,11 @@
   
 <h3 align="left">Cloud / Web:</h3>
 
-![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=for-the-badge&logo=OpenTelemetry&logoColor=white)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
