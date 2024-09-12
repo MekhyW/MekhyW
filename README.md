@@ -24,10 +24,10 @@
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
+![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Arm](https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B3.svg?style=for-the-badge&logo=Proteus&logoColor=white)
 
 <h3 align="left">AI / Data Science:</h3>
 
