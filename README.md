@@ -5,6 +5,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:felipe_catapano@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   <a target="_blank" href="https://telegram.me/MekhyW"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </img></a>
+  <a target="_blank" href="https://discord.com/users/306202256636641290"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"> </img></a>
 <div>
 <br>
 <div align="center">
@@ -17,14 +18,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge&logo=MediaPipe&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RoboFlow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=Roboflow&logoColor=white)
+
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728.svg?style=for-the-badge&logo=MicroPython&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![Arm](https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
 
 <h3 align="left">AI / Data Science:</h3>
