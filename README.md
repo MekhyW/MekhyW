@@ -12,6 +12,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekhyw&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mekhyw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
+<h2>Contributions are welcome! :) <br> Check out my <a href="https://github.com/issues?page=1&q=is%3Aissue+is%3Aopen+user%3AMekhyW+archived%3Afalse+sort%3Aupdated-desc">open issues</a></h2>
+
 <h3 align="left">Robotics:</h3>
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
