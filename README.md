@@ -3,9 +3,10 @@
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:felipe_catapano@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   <a target="_blank" href="https://telegram.me/MekhyW"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </img></a>
-  <a target="_blank" href="https://discord.com/users/306202256636641290"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"> </img></a>
+  <a target="_blank" href="https://discord.com/users/306202256636641290"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"> </img>
+  </a>
+  <a target="_blank" href="https://leetcode.com/u/MekhyW/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"> </img></a>
 <div>
 <br>
 <div align="center">
@@ -17,16 +18,17 @@
 <h3 align="left">Robotics:</h3>
 
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?style=for-the-badge&logo=ROS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge&logo=MediaPipe&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white)
+
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-
+![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999.svg?style=for-the-badge&logo=Siemens&logoColor=white)
-![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 
 <h3 align="left">AI & Data Science:</h3>
 
@@ -39,8 +41,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
   
 <h3 align="left">Cloud & Web:</h3>
