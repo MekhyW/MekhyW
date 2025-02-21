@@ -33,11 +33,11 @@
 <h3 align="left">AI & Data Science:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=for-the-badge&logo=ONNX&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
