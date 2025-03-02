@@ -22,7 +22,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge&logo=MediaPipe&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=Roboflow&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white)
