@@ -25,6 +25,7 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999.svg?style=for-the-badge&logo=Siemens&logoColor=white)
