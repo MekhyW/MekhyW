@@ -42,7 +42,7 @@
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
-![Replicate](https://img.shields.io/badge/Replicate-000000.svg?style=for-the-badge&logo=Replicate&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
   
 <h3 align="left">Cloud & Web:</h3>
 
