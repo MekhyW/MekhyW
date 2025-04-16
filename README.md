@@ -48,9 +48,9 @@
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=white)
   
 <h3 align="left">Cloud & Web:</h3>
 
