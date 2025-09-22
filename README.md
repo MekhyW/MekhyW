@@ -69,6 +69,5 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC.svg?style=for-the-badge&logo=Atlassian&logoColor=white)
