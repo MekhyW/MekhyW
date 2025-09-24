@@ -69,5 +69,5 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GCS](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
-![FFMpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
