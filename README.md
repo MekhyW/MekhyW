@@ -49,6 +49,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge&logo=ElevenLabs&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
   
 <h3 align="left">Cloud & Web:</h3>
 
