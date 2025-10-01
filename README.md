@@ -2,10 +2,10 @@
 <h3 align="center">Computer Engineering Student | Robotics and Automation</h3>
 
 <div align="center">
+  <a target="_blank" href="mailto:mefkhytheroboticist@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   <a target="_blank" href="https://www.linkedin.com/in/felipe-catapano/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="https://telegram.me/MekhyW"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </img></a>
-  <a target="_blank" href="https://discord.com/users/306202256636641290"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"> </img>
-  </a>
+  <a target="_blank" href="https://discord.com/users/306202256636641290"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"> </img></a>
 <div>
 <br>
 <div align="center">
