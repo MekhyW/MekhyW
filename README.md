@@ -45,11 +45,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge&logo=ElevenLabs&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
+
   
 <h3 align="left">Cloud & Web:</h3>
 
