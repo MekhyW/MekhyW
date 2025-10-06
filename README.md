@@ -32,10 +32,9 @@
 ![Espressif](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
-![Siemens](https://img.shields.io/badge/Siemens-009999.svg?style=for-the-badge&logo=Siemens&logoColor=white)
-![Creality](https://img.shields.io/badge/Creality-000000.svg?style=for-the-badge&logo=Creality&logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42.svg?style=for-the-badge&logo=Bambu-Lab&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-ff6a00.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999.svg?style=for-the-badge&logo=Siemens&logoColor=white)
+![RDWorks](https://img.shields.io/badge/RDWorks-f09639.svg?style=for-the-badge&logo=Alwaysdata&logoColor=white)
 
 <h3 align="left">AI & Data Science:</h3>
 
