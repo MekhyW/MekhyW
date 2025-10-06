@@ -23,12 +23,13 @@
 ![YOLO](https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white)
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-FFC000.svg?style=for-the-badge&logo=HiveMQ&logoColor=black)
 
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
-![Arm](https://img.shields.io/badge/Arm-0091BD.svg?style=for-the-badge&logo=Arm&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
+![LattePanda](https://img.shields.io/badge/LattePanda-8B744F.svg?style=for-the-badge&logo=foodpanda&logoColor=white)
+![RPi](https://img.shields.io/badge/RPi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
@@ -45,16 +46,17 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge&logo=ElevenLabs&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
 
   
 <h3 align="left">Cloud & Web:</h3>
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
@@ -62,13 +64,13 @@
 
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GCS](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
+![GCS](https://img.shields.io/badge/GCS-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
+![Spotify](https://img.shields.io/badge/Spotify%20API-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
