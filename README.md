@@ -42,13 +42,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FFFFFF.svg?style=for-the-badge&logo=LiveKit&logoColor=black)
+![LiveKit](https://img.shields.io/badge/LiveKit-070707.svg?style=for-the-badge&logo=LiveKit&logoColor=white)
 
-![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93.svg?style=for-the-badge&logo=Deepgram&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000.svg?style=for-the-badge&logo=ElevenLabs&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF.svg?style=for-the-badge&logo=Ollama&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-7087ef.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0ea982.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-000000.svg?style=for-the-badge&logo=Deepgram&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FFFFFF.svg?style=for-the-badge&logo=ElevenLabs&logoColor=black)
 
 
   
@@ -59,7 +59,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-0f1726.svg?style=for-the-badge&logo=Replit&logoColor=f8650a)
 
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,5 +71,5 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GCS](https://img.shields.io/badge/GCS-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black)
+![GCS](https://img.shields.io/badge/GCS-4486f8.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify%20API-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
