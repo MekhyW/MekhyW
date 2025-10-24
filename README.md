@@ -59,7 +59,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,3 +73,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GCS](https://img.shields.io/badge/GCS-4486f8.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify%20API-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
