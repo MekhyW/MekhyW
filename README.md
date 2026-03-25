@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe Catapano</h1>
+<h1 align="center">Hi 👋, I'm Mekhy</h1>
 <h3 align="center">Computer Engineering Student | Robotics and Automation</h3>
 
 <div align="center">
