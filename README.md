@@ -22,17 +22,17 @@
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=Roboflow&logoColor=white)
 
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-FFC000.svg?style=for-the-badge&logo=HiveMQ&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![Netbird](https://img.shields.io/badge/Netbird-F68330.svg?style=for-the-badge&logo=China-Eastern-Airlines&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Jetson-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![LattePanda](https://img.shields.io/badge/LattePanda-8B744F.svg?style=for-the-badge&logo=foodpanda&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RPi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Espressif](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Realsense](https://img.shields.io/badge/Realsense-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![Luxonis](https://img.shields.io/badge/Luxonis-512BD4.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Fusion-ff6a00.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
-![Siemens NX](https://img.shields.io/badge/NX-009999.svg?style=for-the-badge&logo=Siemens&logoColor=white)
 ![RDWorks](https://img.shields.io/badge/RDWorks-f09639.svg?style=for-the-badge&logo=Alwaysdata&logoColor=white)
 
 <h3 align="left">AI & Data Science:</h3>
