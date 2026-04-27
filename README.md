@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mekhy</h1>
-<h3 align="center">Computer Engineering Student | Robotics and Automation</h3>
+<h3 align="center">Computer Engineer | Robotics and Automation</h3>
 
 <div align="center">
   <a target="_blank" href="mailto:mefkhytheroboticist@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
