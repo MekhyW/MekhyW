@@ -67,10 +67,10 @@
 ![Next.js](https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GCS](https://img.shields.io/badge/GCS-4486f8.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=white)
 ![Netbird](https://img.shields.io/badge/Netbird-F68330.svg?style=for-the-badge&logo=China-Eastern-Airlines&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
