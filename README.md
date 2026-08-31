@@ -29,7 +29,7 @@
 ![Espressif](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ![Slamtec](https://img.shields.io/badge/Slamtec-10B7EB.svg?style=for-the-badge&logo=ActiGraph&logoColor=white)
-![Realsense](https://img.shields.io/badge/Realsense-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
+![Realsense](https://img.shields.io/badge/Realsense-0071C5.svg?style=for-the-badge&logo=Convex&logoColor=white)
 ![Luxonis](https://img.shields.io/badge/Luxonis-512BD4.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Fusion-ff6a00.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
@@ -43,13 +43,13 @@
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=Roboflow&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/sklearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/Openvino-6C24F0.svg?style=for-the-badge&logo=Intel&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-070707.svg?style=for-the-badge&logo=LiveKit&logoColor=white)
 
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF.svg?style=for-the-badge&logo=Ollama&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-FFFFFF.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-7087ef.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-070707.svg?style=for-the-badge&logo=LiveKit&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-000000.svg?style=for-the-badge&logo=Deepgram&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FFFFFF.svg?style=for-the-badge&logo=ElevenLabs&logoColor=black)
 
@@ -66,11 +66,12 @@
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Netbird](https://img.shields.io/badge/Netbird-F68330.svg?style=for-the-badge&logo=China-Eastern-Airlines&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
