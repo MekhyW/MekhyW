@@ -48,7 +48,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-FFFFFF.svg?style=for-the-badge&logo=OpenAI-Gym&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-7087ef.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-070707.svg?style=for-the-badge&logo=LiveKit&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-000000.svg?style=for-the-badge&logo=Deepgram&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FFFFFF.svg?style=for-the-badge&logo=ElevenLabs&logoColor=black)
@@ -74,4 +74,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
-![Netbird](https://img.shields.io/badge/Netbird-F68330.svg?style=for-the-badge&logo=China-Eastern-Airlines&logoColor=white)
